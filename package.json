@@ -1,0 +1,23 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimlees/joker.git"
+  },
+  "keywords": [
+    "workflow",
+    "git"
+  ],
+  "author": "Joakim Lee Sletten <joakimlee_sletten@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joakimlees/joker/issues"
+  },
+  "homepage": "https://github.com/joakimlees/joker#readme"
+}
